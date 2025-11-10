@@ -3,10 +3,6 @@
 ## 🚀 About Me
 I'm a passionate frontend developer specializing in modern web technologies. I love creating responsive, user-friendly interfaces and bringing ideas to life through code. Always eager to learn new technologies and take on challenging projects.
 
-## 🔭 I'm currently working on
-- **[Your Project Name]** - [Brief description of your project]
-- Building interactive web applications with React and modern JavaScript
-- Mastering responsive design and advanced CSS techniques
 
 ## 🌱 I'm currently learning
 - Advanced React patterns and best practices
@@ -24,8 +20,6 @@ I'm a passionate frontend developer specializing in modern web technologies. I l
 
 ## 🛠️ Featured Projects
 
-### [Project Name]
-[Description of your project - what it does, technologies used (React, Tailwind CSS, etc.), and key features]
 
 **Tech Stack:** React, JavaScript, Tailwind CSS, HTML5
 
@@ -35,10 +29,10 @@ I'm a passionate frontend developer specializing in modern web technologies. I l
 **Tech Stack:** [List technologies used]
 
 ## 📫 How to reach me
-- **Email:** [your-email@domain.com]
-- **LinkedIn:** [Your LinkedIn profile URL]
-- **Portfolio:** [Your portfolio website URL if you have one]
-- **Twitter:** [Your Twitter handle if you have one]
+- **Email:** [castrokimaru@gmail.com]
+- **LinkedIn:** []
+- **Portfolio:** []
+- **Twitter:** []
 
 ## 📈 GitHub Stats
 ![Castro's GitHub stats](https://github-readme-stats.vercel.app/api?username=castro-kimaru&show_icons=true&theme=radical)
